@@ -1,0 +1,17 @@
+{
+  "id": "Audio/CS4344:CS4344",
+  "name": "CS4344",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/CS4344.kicad_sym",
+  "description": "16 to 24-Bit, 192 kHz Stereo D/A Converter, I2S Audio Format, TSSOP-10",
+  "datasheet": "https://statics.cirrus.com/pubs/proDatasheet/CS4344-45-48_F2.pdf",
+  "keywords": "stereo 2ch audio codec",
+  "footprint": "Package_SO:TSSOP-10_3x3mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/CS4344/",
+  "part_path": "parts/CS4344",
+  "symbol_file": "parts/CS4344/CS4344.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:36:53.542Z"
+}

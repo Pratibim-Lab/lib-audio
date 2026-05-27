@@ -1,0 +1,17 @@
+{
+  "id": "Audio/PGA2310UA:PGA2310UA",
+  "name": "PGA2310UA",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/PGA2310UA.kicad_sym",
+  "description": "2-Channel Audio Volume Control, SPI Interface, +31.5dB to -95.5dB, SOL-16",
+  "datasheet": "https://www.ti.com.cn/cn/lit/gpn/pga2310",
+  "keywords": "audio volume control 2ch spi",
+  "footprint": "Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/PGA2310UA/",
+  "part_path": "parts/PGA2310UA",
+  "symbol_file": "parts/PGA2310UA/PGA2310UA.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:37:46.101Z"
+}

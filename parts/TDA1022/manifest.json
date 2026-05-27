@@ -1,0 +1,17 @@
+{
+  "id": "Audio/TDA1022:TDA1022",
+  "name": "TDA1022",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/TDA1022.kicad_sym",
+  "description": "BUCKET BRIGADE DELAY LINE FOR ANALOGUE SIGNALS, 512 stages, delay time 0.512ms to 51.2ms, signal frequency range 0 to 45KHz, clock frequency range 5KHz to 500KHz, DIP-16",
+  "datasheet": "http://thmq.mysteria.cz/em1022/TDA1022.pdf",
+  "keywords": "PHILIPS BBD MOS monolithic delay analogue",
+  "footprint": "Package_DIP:DIP-16_W7.62mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/TDA1022/",
+  "part_path": "parts/TDA1022",
+  "symbol_file": "parts/TDA1022/TDA1022.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:38:07.085Z"
+}

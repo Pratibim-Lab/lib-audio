@@ -1,0 +1,17 @@
+{
+  "id": "Audio/ADAU1978xBCP:ADAU1978xBCP",
+  "name": "ADAU1978xBCP",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/ADAU1978xBCP.kicad_sym",
+  "description": "Quad Analog-to-Digital Converter, 2Vrms differential inputs, LFCSP-40",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADAU1978.pdf",
+  "keywords": "Audio ADC I2S TDM",
+  "footprint": "Package_CSP:LFCSP-40-1EP_6x6mm_P0.5mm_EP3.9x3.9mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/ADAU1978xBCP/",
+  "part_path": "parts/ADAU1978xBCP",
+  "symbol_file": "parts/ADAU1978xBCP/ADAU1978xBCP.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:36:31.169Z"
+}

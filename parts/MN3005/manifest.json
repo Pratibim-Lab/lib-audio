@@ -1,0 +1,17 @@
+{
+  "id": "Audio/MN3005:MN3005",
+  "name": "MN3005",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/MN3005.kicad_sym",
+  "description": "4096-STAGE LONG DELAY BBD (bucket brigade device), delay time 20.48ms to 204.8ms, S/N 75dB, clock frequency range 10KHz to 100KHz",
+  "datasheet": "http://www.experimentalistsanonymous.com/diy/Datasheets/MN3005.pdf",
+  "keywords": "Matsushita Panasonic BBD",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/MN3005/",
+  "part_path": "parts/MN3005",
+  "symbol_file": "parts/MN3005/MN3005.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:37:23.182Z"
+}

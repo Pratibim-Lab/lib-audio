@@ -1,0 +1,17 @@
+{
+  "id": "Audio/CS4334:CS4334",
+  "name": "CS4334",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/CS4334.kicad_sym",
+  "description": "24-Bit, 96kHz Stereo D/A Converter, SOIC-8",
+  "datasheet": "https://statics.cirrus.com/pubs/proDatasheet/CS4334-5-8-9_F7.pdf",
+  "keywords": "stereo 2ch audio codec i2s 24bit 96kHz",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/CS4334/",
+  "part_path": "parts/CS4334",
+  "symbol_file": "parts/CS4334/CS4334.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:36:52.580Z"
+}

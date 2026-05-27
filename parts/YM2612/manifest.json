@@ -1,0 +1,17 @@
+{
+  "id": "Audio/YM2612:YM2612",
+  "name": "YM2612",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/YM2612.kicad_sym",
+  "description": "Yamaha 6-channel, 4-OP, FM sound generator (with built-in 9-bit DAC), sine-wave LFO, 8-bit PCM channel (DAC mode), DIP-24 (600 mil)",
+  "datasheet": "https://ddraig68k.com/assets/files/datasheets/YM2612.pdf",
+  "keywords": "FM-synthesizer OPN2 NMOS stereo sound-chip low-frequency-oscillator",
+  "footprint": "Package_DIP:DIP-24_W15.24mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/YM2612/",
+  "part_path": "parts/YM2612",
+  "symbol_file": "parts/YM2612/YM2612.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:38:26.935Z"
+}

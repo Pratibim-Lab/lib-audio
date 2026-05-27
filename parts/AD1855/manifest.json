@@ -1,0 +1,17 @@
+{
+  "id": "Audio/AD1855:AD1855",
+  "name": "AD1855",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/AD1855.kicad_sym",
+  "description": "Stereo, 96 kHz, Multibit Sigma-Delta DAC, SSOP-28",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/AD1855.pdf",
+  "keywords": "audio dac 2ch 24bit 96kHz",
+  "footprint": "Package_SO:SSOP-28_5.3x10.2mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/AD1855/",
+  "part_path": "parts/AD1855",
+  "symbol_file": "parts/AD1855/AD1855.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:36:27.146Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Audio/PCM5122PW:PCM5122PW",
+  "name": "PCM5122PW",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/PCM5122PW.kicad_sym",
+  "description": "2VRMS DirectPath, 112dB Audio Stereo DAC with 32-bit, 384kHz PCM Interface, TSSOP-28",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/pcm5122.pdf",
+  "keywords": "audio dac 2ch 32bit 384kHz",
+  "footprint": "Package_SO:TSSOP-28_4.4x9.7mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/PCM5122PW/",
+  "part_path": "parts/PCM5122PW",
+  "symbol_file": "parts/PCM5122PW/PCM5122PW.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:37:43.925Z"
+}

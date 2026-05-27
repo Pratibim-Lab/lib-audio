@@ -1,0 +1,17 @@
+{
+  "id": "Audio/RD5107A:RD5107A",
+  "name": "RD5107A",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/RD5107A.kicad_sym",
+  "description": "Analog Delay Line 512 sample bucket brigade device, 1msec to more than 2seconds, input signal frequency range 0 to 170KHz, clock frequency range 500Hz to 1MHz",
+  "datasheet": "http://pdf.datasheetarchive.com/indexerfiles/Scans-091/DSAHI00048836.pdf",
+  "keywords": "EG&G RETICON BBD N-channel silicon-gate",
+  "footprint": "",
+  "extends": "RD5106A",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/RD5107A/",
+  "part_path": "parts/RD5107A",
+  "symbol_file": "parts/RD5107A/RD5107A.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:37:53.391Z"
+}

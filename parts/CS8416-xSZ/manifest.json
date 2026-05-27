@@ -1,0 +1,17 @@
+{
+  "id": "Audio/CS8416-xSZ:CS8416-xSZ",
+  "name": "CS8416-xSZ",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/CS8416-xSZ.kicad_sym",
+  "description": "192 kHz Digital Audio Interface Receiver, SOIC-28",
+  "datasheet": "https://d3uzseaevmutz1.cloudfront.net/pubs/proDatasheet/CS8416_F3.pdf",
+  "keywords": "audio digital interface receiver",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/CS8416-xSZ/",
+  "part_path": "parts/CS8416-xSZ",
+  "symbol_file": "parts/CS8416-xSZ/CS8416-xSZ.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:37:04.137Z"
+}

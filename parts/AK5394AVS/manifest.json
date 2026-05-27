@@ -1,0 +1,17 @@
+{
+  "id": "Audio/AK5394AVS:AK5394AVS",
+  "name": "AK5394AVS",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/AK5394AVS.kicad_sym",
+  "description": "Super High Performance 192kHz 24-Bit Sigma-Delta ADC, SOIC-28",
+  "datasheet": "http://www.akm.com/akm/en/file/datasheet/AK5394AVS.pdf",
+  "keywords": "audio adc 2ch 24bit 192kHz",
+  "footprint": "Package_SO:SOIC-28W_7.5x18.7mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/AK5394AVS/",
+  "part_path": "parts/AK5394AVS",
+  "symbol_file": "parts/AK5394AVS/AK5394AVS.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:36:35.761Z"
+}

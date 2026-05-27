@@ -1,0 +1,17 @@
+{
+  "id": "Audio/CS4270:CS4270",
+  "name": "CS4270",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/CS4270.kicad_sym",
+  "description": "24-Bit, 192-kHz Stereo Audio CODEC, TSSOP-24",
+  "datasheet": "https://statics.cirrus.com/pubs/proDatasheet/CS4270_F1.pdf",
+  "keywords": "Audio Codec",
+  "footprint": "Package_SO:TSSOP-24_4.4x7.8mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/CS4270/",
+  "part_path": "parts/CS4270",
+  "symbol_file": "parts/CS4270/CS4270.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:36:50.545Z"
+}

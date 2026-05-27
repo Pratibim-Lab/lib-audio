@@ -1,0 +1,17 @@
+{
+  "id": "Audio/PT2258-S:PT2258-S",
+  "name": "PT2258-S",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/PT2258-S.kicad_sym",
+  "description": "6-Channel Electronic Volume Controller, SOP-20",
+  "datasheet": "http://www.princeton.com.tw/Portals/0/Product/PT2258-s.pdf",
+  "keywords": "Volume",
+  "footprint": "Package_SO:SO-20_12.8x7.5mm_P1.27mm",
+  "extends": "PT2258",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/PT2258-S/",
+  "part_path": "parts/PT2258-S",
+  "symbol_file": "parts/PT2258-S/PT2258-S.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:37:49.497Z"
+}

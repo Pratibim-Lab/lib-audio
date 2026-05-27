@@ -1,0 +1,17 @@
+{
+  "id": "Audio/PT2399:PT2399",
+  "name": "PT2399",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/PT2399.kicad_sym",
+  "description": "Echo Processor IC, DIP-16",
+  "datasheet": "http://www.princeton.com.tw/Portals/0/Product/PT2399_1.pdf",
+  "keywords": "CMOS ADC DAC 44K Digital processing VCO",
+  "footprint": "Package_DIP:DIP-16_W7.62mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/PT2399/",
+  "part_path": "parts/PT2399",
+  "symbol_file": "parts/PT2399/PT2399.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:37:51.509Z"
+}

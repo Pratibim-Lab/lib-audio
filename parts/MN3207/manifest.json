@@ -1,0 +1,17 @@
+{
+  "id": "Audio/MN3207:MN3207",
+  "name": "MN3207",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/MN3207.kicad_sym",
+  "description": "1024-STAGE LOW VOLTAGE OPERATION LOW NOISE BBD (bucket brigade device), delay time 2.56ms to 51.2ms, S/N 73dB, clock frequency range 10KHz to 200KHz",
+  "datasheet": "http://www.experimentalistsanonymous.com/diy/Datasheets/MN3207.pdf",
+  "keywords": "Matsushita Panasonic BBD",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/MN3207/",
+  "part_path": "parts/MN3207",
+  "symbol_file": "parts/MN3207/MN3207.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:37:25.039Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Audio/ISD2575P:ISD2575P",
+  "name": "ISD2575P",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/ISD2575P.kicad_sym",
+  "description": "Single-Chip Voice Record/Playback Device 75-Second Duration, DIP-28",
+  "datasheet": "https://datasheetspdf.com/pdf-file/700027/Winbond/ISD2560/1",
+  "keywords": "isd2575",
+  "footprint": "Package_DIP:DIP-28_W15.24mm",
+  "extends": "ISD2560P",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/ISD2575P/",
+  "part_path": "parts/ISD2575P",
+  "symbol_file": "parts/ISD2575P/ISD2575P.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:37:16.408Z"
+}

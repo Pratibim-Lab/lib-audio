@@ -1,0 +1,17 @@
+{
+  "id": "Audio/ADAU1761:ADAU1761",
+  "name": "ADAU1761",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/ADAU1761.kicad_sym",
+  "description": "SigmaDSP Stereo, Low Power, 96 kHz, 24-bit Audio Codec with Integrated PLL, VQFN-32 (LFCSP-32)",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADAU1761.pdf",
+  "keywords": "DSP GPIO ADC DAC PGA I2S TDM I2C SPI",
+  "footprint": "Package_CSP:LFCSP-32-1EP_5x5mm_P0.5mm_EP3.5x3.5mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/ADAU1761/",
+  "part_path": "parts/ADAU1761",
+  "symbol_file": "parts/ADAU1761/ADAU1761.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:36:30.193Z"
+}

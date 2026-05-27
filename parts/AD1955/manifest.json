@@ -1,0 +1,17 @@
+{
+  "id": "Audio/AD1955:AD1955",
+  "name": "AD1955",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/AD1955.kicad_sym",
+  "description": "High Performance Multibit Sigma-Delta DAC with SACD Playback, SSOP-28",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/AD1955.pdf",
+  "keywords": "audio dac 2ch 24bit 192kHz",
+  "footprint": "Package_SO:SSOP-28_5.3x10.2mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/AD1955/",
+  "part_path": "parts/AD1955",
+  "symbol_file": "parts/AD1955/AD1955.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:36:28.042Z"
+}

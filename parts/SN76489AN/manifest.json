@@ -1,0 +1,17 @@
+{
+  "id": "Audio/SN76489AN:SN76489AN",
+  "name": "SN76489AN",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/SN76489AN.kicad_sym",
+  "description": "Digital Complex Sound Generator, 3 square wave channels, 1 noise channel, up to 4MHz clock input, DIP-16",
+  "datasheet": "https://www.vgmpf.com/Wiki/images/7/78/SN76489AN_-_Manual.pdf",
+  "keywords": "Texas-Instruments programmable-sound-generator PSG TTL-compatible Obsolete",
+  "footprint": "Package_DIP:DIP-16_W7.62mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/SN76489AN/",
+  "part_path": "parts/SN76489AN",
+  "symbol_file": "parts/SN76489AN/SN76489AN.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:38:00.762Z"
+}

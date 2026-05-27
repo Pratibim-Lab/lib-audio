@@ -1,0 +1,17 @@
+{
+  "id": "Audio/TPA5050:TPA5050",
+  "name": "TPA5050",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/TPA5050.kicad_sym",
+  "description": "Stereo Digital Audio Lip-Sync Delay Processor With I2C Control, QFN-16",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tpa5050.pdf",
+  "keywords": "audio delay",
+  "footprint": "Package_DFN_QFN:Texas_S-PVQFN-N16_EP2.7x2.7mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/TPA5050/",
+  "part_path": "parts/TPA5050",
+  "symbol_file": "parts/TPA5050/TPA5050.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:38:20.701Z"
+}

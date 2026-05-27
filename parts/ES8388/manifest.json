@@ -1,0 +1,17 @@
+{
+  "id": "Audio/ES8388:ES8388",
+  "name": "ES8388",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/ES8388.kicad_sym",
+  "description": "Low Power Stereo Audio CODEC With Headphone Amplifier, 24-bit, 8kHz - 96kHz ADC / DAC sampling frequency, 1.8V - 3.3V supply, WQFN-28",
+  "datasheet": "http://www.everest-semi.com/pdf/ES8388%20DS.pdf",
+  "keywords": "i2s 2ch i2c spi dsp pcm",
+  "footprint": "Package_DFN_QFN:QFN-28-1EP_4x4mm_P0.45mm_EP2.6x2.6mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/ES8388/",
+  "part_path": "parts/ES8388",
+  "symbol_file": "parts/ES8388/ES8388.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:37:08.155Z"
+}

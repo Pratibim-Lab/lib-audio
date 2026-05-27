@@ -1,0 +1,17 @@
+{
+  "id": "Audio/CS4245:CS4245",
+  "name": "CS4245",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/CS4245.kicad_sym",
+  "description": "104 dB, 24-Bit, 192 kHz Stereo Audio CODEC, LQFP-48",
+  "datasheet": "https://d3uzseaevmutz1.cloudfront.net/pubs/proDatasheet/CS4245_F3.pdf",
+  "keywords": "audio codec 2ch 24bit 192kHz",
+  "footprint": "Package_QFP:LQFP-48_7x7mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/CS4245/",
+  "part_path": "parts/CS4245",
+  "symbol_file": "parts/CS4245/CS4245.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:36:47.834Z"
+}

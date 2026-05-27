@@ -1,0 +1,17 @@
+{
+  "id": "Audio/PGA2500:PGA2500",
+  "name": "PGA2500",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/PGA2500.kicad_sym",
+  "description": "Digitally Controlled Microphone Preamplifier",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/pga2500.pdf",
+  "keywords": "Digitally Controlled Microphone Preamplifier",
+  "footprint": "Package_SO:SSOP-28_5.3x10.2mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/PGA2500/",
+  "part_path": "parts/PGA2500",
+  "symbol_file": "parts/PGA2500/PGA2500.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:37:47.067Z"
+}

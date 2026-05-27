@@ -1,0 +1,17 @@
+{
+  "id": "Audio/TLV320AIC23BPW:TLV320AIC23BPW",
+  "name": "TLV320AIC23BPW",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/TLV320AIC23BPW.kicad_sym",
+  "description": "Stero Audio CODEC, 8- to 96-kHz, With Integrated Headphone Amplifier, TSSOP-28",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tlv320aic23b.pdf",
+  "keywords": "audio codec 2ch 96kHz headphone amplifier",
+  "footprint": "Package_SO:TSSOP-28_4.4x9.7mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/TLV320AIC23BPW/",
+  "part_path": "parts/TLV320AIC23BPW",
+  "symbol_file": "parts/TLV320AIC23BPW/TLV320AIC23BPW.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:38:16.378Z"
+}

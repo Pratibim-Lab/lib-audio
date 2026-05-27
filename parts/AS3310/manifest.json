@@ -1,0 +1,17 @@
+{
+  "id": "Audio/AS3310:AS3310",
+  "name": "AS3310",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/AS3310.kicad_sym",
+  "description": "ADSR Voltage Controlled Envelope Generator, DIP-16/SOIC-16",
+  "datasheet": "http://www.alfarzpp.lv/eng/sc/AS3310.pdf",
+  "keywords": "VCEG CEM3310 ALFA",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/AS3310/",
+  "part_path": "parts/AS3310",
+  "symbol_file": "parts/AS3310/AS3310.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:36:38.720Z"
+}

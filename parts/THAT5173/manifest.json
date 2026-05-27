@@ -1,0 +1,17 @@
+{
+  "id": "Audio/THAT5173:THAT5173",
+  "name": "THAT5173",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/THAT5173.kicad_sym",
+  "description": "Audio Preamplifier Digital Controller IC, QFN-24",
+  "datasheet": "http://www.thatcorp.com/datashts/THAT_5173_Datasheet.pdf",
+  "keywords": "mic preamp gain controller",
+  "footprint": "Package_DFN_QFN:QFN-24-1EP_5x5mm_P0.65mm_EP3.4x3.4mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/THAT5173/",
+  "part_path": "parts/THAT5173",
+  "symbol_file": "parts/THAT5173/THAT5173.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:38:11.160Z"
+}

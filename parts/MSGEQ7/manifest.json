@@ -1,0 +1,17 @@
+{
+  "id": "Audio/MSGEQ7:MSGEQ7",
+  "name": "MSGEQ7",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/MSGEQ7.kicad_sym",
+  "description": "Seven Band Graphic Equalizer, DIP-8/SOIC-8",
+  "datasheet": "http://mix-sig.com/images/datasheets/MSGEQ7.pdf",
+  "keywords": "equalizer filter",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/MSGEQ7/",
+  "part_path": "parts/MSGEQ7",
+  "symbol_file": "parts/MSGEQ7/MSGEQ7.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:37:26.022Z"
+}

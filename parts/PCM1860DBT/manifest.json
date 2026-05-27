@@ -1,0 +1,17 @@
+{
+  "id": "Audio/PCM1860DBT:PCM1860DBT",
+  "name": "PCM1860DBT",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/PCM1860DBT.kicad_sym",
+  "description": "2-Channel, 192 kHz, 24-bit, Audio ADC, 103dB SNR, I2S / left-justified digital output formats, hardware control interface, TSSOP-30",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/pcm1860.pdf",
+  "keywords": "Texas-Instruments PCM PGA PLL audio-front-end analog-MUX energysense PCM1861DBT",
+  "footprint": "Package_SO:TSSOP-30_4.4x7.8mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/PCM1860DBT/",
+  "part_path": "parts/PCM1860DBT",
+  "symbol_file": "parts/PCM1860DBT/PCM1860DBT.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:37:31.477Z"
+}

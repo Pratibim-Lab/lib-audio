@@ -1,0 +1,17 @@
+{
+  "id": "Audio/WM8731CLSEFL:WM8731CLSEFL",
+  "name": "WM8731CLSEFL",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/WM8731CLSEFL.kicad_sym",
+  "description": "Portable Internet Audio CODEC with Headphone Driver and Programmable Sample Rates, QFN-28",
+  "datasheet": "https://statics.cirrus.com/pubs/proDatasheet/WM8731_v4.9.pdf",
+  "keywords": "wolfson stereo audio codec adc dac headphone",
+  "footprint": "Package_DFN_QFN:QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/WM8731CLSEFL/",
+  "part_path": "parts/WM8731CLSEFL",
+  "symbol_file": "parts/WM8731CLSEFL/WM8731CLSEFL.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:38:22.616Z"
+}

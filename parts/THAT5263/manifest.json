@@ -1,0 +1,17 @@
+{
+  "id": "Audio/THAT5263:THAT5263",
+  "name": "THAT5263",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/THAT5263.kicad_sym",
+  "description": "2-Channel Digital Preamplifier Controller IC, QFN-24",
+  "datasheet": "http://www.thatcorp.com/datashts/THAT_5263_Datasheet.pdf",
+  "keywords": "dual mic preamp gain controller",
+  "footprint": "Package_DFN_QFN:QFN-24-1EP_5x5mm_P0.65mm_EP3.4x3.4mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/THAT5263/",
+  "part_path": "parts/THAT5263",
+  "symbol_file": "parts/THAT5263/THAT5263.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:38:12.092Z"
+}

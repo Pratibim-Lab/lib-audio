@@ -1,0 +1,17 @@
+{
+  "id": "Audio/PGA4311:PGA4311",
+  "name": "PGA4311",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/PGA4311.kicad_sym",
+  "description": "4-Channel Audio Volume Control, SPI Interface, +31.5dB to -95.5dB, SOIC-28W",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/pga4311.pdf",
+  "keywords": "audio volume control 4ch spi",
+  "footprint": "Package_SO:SOIC-28W_7.5x17.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/PGA4311/",
+  "part_path": "parts/PGA4311",
+  "symbol_file": "parts/PGA4311/PGA4311.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:37:48.223Z"
+}

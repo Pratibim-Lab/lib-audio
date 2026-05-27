@@ -1,0 +1,17 @@
+{
+  "id": "Audio/AK5392VS:AK5392VS",
+  "name": "AK5392VS",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/AK5392VS.kicad_sym",
+  "description": "Enhanced Dual Bit Sigma-Delta 24Bit ADC, SOIC-28",
+  "datasheet": "https://media.digikey.com/pdf/Data%20Sheets/AKM%20Semiconductor%20Inc.%20PDFs/AK5392.pdf",
+  "keywords": "audio adc 2ch 24bit",
+  "footprint": "Package_SO:SOIC-28W_7.5x18.7mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/AK5392VS/",
+  "part_path": "parts/AK5392VS",
+  "symbol_file": "parts/AK5392VS/AK5392VS.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:36:33.266Z"
+}

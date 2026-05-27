@@ -1,0 +1,17 @@
+{
+  "id": "Audio/PCM1780:PCM1780",
+  "name": "PCM1780",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/PCM1780.kicad_sym",
+  "description": "24-bit, 192-kHz sampling, Stereo Audio DAC, SSOP-16",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/pcm1780.pdf",
+  "keywords": "audio dac 24-bit",
+  "footprint": "Package_SO:SSOP-16_3.9x4.9mm_P0.635mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/PCM1780/",
+  "part_path": "parts/PCM1780",
+  "symbol_file": "parts/PCM1780/PCM1780.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:37:28.109Z"
+}

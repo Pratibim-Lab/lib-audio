@@ -1,0 +1,17 @@
+{
+  "id": "Audio/AS3345:AS3345",
+  "name": "AS3345",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/AS3345.kicad_sym",
+  "description": "Voltage Controlled Oscillator (VCO), DIP-18",
+  "datasheet": "http://www.alfarzpp.lv/eng/sc/AS3340.pdf",
+  "keywords": "VCO CEM345 ALFA",
+  "footprint": "Package_DIP:DIP-18_W7.62mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/AS3345/",
+  "part_path": "parts/AS3345",
+  "symbol_file": "parts/AS3345/AS3345.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:36:44.855Z"
+}

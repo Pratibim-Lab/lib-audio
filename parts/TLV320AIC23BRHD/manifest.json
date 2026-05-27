@@ -1,0 +1,17 @@
+{
+  "id": "Audio/TLV320AIC23BRHD:TLV320AIC23BRHD",
+  "name": "TLV320AIC23BRHD",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/TLV320AIC23BRHD.kicad_sym",
+  "description": "Stero Audio CODEC, 8- to 96-kHz, With Integrated Headphone Amplifier, QFN-28",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tlv320aic23b.pdf",
+  "keywords": "audio codec 2ch 96kHz headphone amplifier",
+  "footprint": "Package_DFN_QFN:QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/TLV320AIC23BRHD/",
+  "part_path": "parts/TLV320AIC23BRHD",
+  "symbol_file": "parts/TLV320AIC23BRHD/TLV320AIC23BRHD.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:38:17.300Z"
+}

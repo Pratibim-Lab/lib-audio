@@ -1,0 +1,17 @@
+{
+  "id": "Audio/CS4272:CS4272",
+  "name": "CS4272",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/CS4272.kicad_sym",
+  "description": "24-Bit, 192 kHz Stereo Audio CODEC, TSSOP-28",
+  "datasheet": "https://statics.cirrus.com/pubs/proDatasheet/CS4272_F1.pdf",
+  "keywords": "stereo 2ch audio codec i2s 24bit 192kHz",
+  "footprint": "Package_SO:TSSOP-28_4.4x9.7mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/CS4272/",
+  "part_path": "parts/CS4272",
+  "symbol_file": "parts/CS4272/CS4272.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:36:51.501Z"
+}

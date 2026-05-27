@@ -1,0 +1,17 @@
+{
+  "id": "Audio/THAT1580:THAT1580",
+  "name": "THAT1580",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/THAT1580.kicad_sym",
+  "description": "Low-Noise, Differential Audio Preamplifier IC, 0.005% THD+N, -134.8dBu EIN, QFN-16",
+  "datasheet": "http://www.thatcorp.com/datashts/THAT_1580_Datasheet.pdf",
+  "keywords": "diff amp mic preamp",
+  "footprint": "Package_DFN_QFN:QFN-16-1EP_4x4mm_P0.65mm_EP2.1x2.1mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/THAT1580/",
+  "part_path": "parts/THAT1580",
+  "symbol_file": "parts/THAT1580/THAT1580.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:38:08.037Z"
+}

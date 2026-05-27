@@ -1,0 +1,17 @@
+{
+  "id": "Audio/RE46C317:RE46C317",
+  "name": "RE46C317",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/RE46C317.kicad_sym",
+  "description": "Piezoelectric Horn Driver with Boost Converter, 3.3V supply, Tri-State Horn Enable, SOIC-8",
+  "datasheet": "https://ww1.microchip.com/downloads/en/DeviceDoc/22301B.pdf",
+  "keywords": "Microchip step-up",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/RE46C317/",
+  "part_path": "parts/RE46C317",
+  "symbol_file": "parts/RE46C317/RE46C317.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:37:54.418Z"
+}

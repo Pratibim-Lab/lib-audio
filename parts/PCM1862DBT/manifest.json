@@ -1,0 +1,17 @@
+{
+  "id": "Audio/PCM1862DBT:PCM1862DBT",
+  "name": "PCM1862DBT",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/PCM1862DBT.kicad_sym",
+  "description": "2-Channel, 192 kHz, 24-bit, Audio ADC, 103dB SNR, I2S / left/right-justified / TDM digital output formats, I2C / SPI control interface, 2 digital microphone support, TSSOP-30",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/pcm1862.pdf",
+  "keywords": "Texas-Instruments PCM PGA GPIO PLL audio-front-end analog-MUX mixer energysense PCM1863DBT",
+  "footprint": "Package_SO:TSSOP-30_4.4x7.8mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/PCM1862DBT/",
+  "part_path": "parts/PCM1862DBT",
+  "symbol_file": "parts/PCM1862DBT/PCM1862DBT.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:37:32.524Z"
+}

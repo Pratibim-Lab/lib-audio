@@ -1,0 +1,17 @@
+{
+  "id": "Audio/SAD1024:SAD1024",
+  "name": "SAD1024",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/SAD1024.kicad_sym",
+  "description": "SAD-1024 DUAL ANALOG DELAY LINE, bucket brigade device, 2 independent 512 stages, signal frequency range 0 to 200KHz, clock frequency range 1.5KHz to 1.5MHz",
+  "datasheet": "http://thmq.mysteria.cz/em1022/SAD1024.pdf",
+  "keywords": "EG&G RETICON BBD N-channel silicon-gate",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/SAD1024/",
+  "part_path": "parts/SAD1024",
+  "symbol_file": "parts/SAD1024/SAD1024.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:37:56.327Z"
+}

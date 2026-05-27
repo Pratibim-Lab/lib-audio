@@ -1,0 +1,17 @@
+{
+  "id": "Audio/RD5106A:RD5106A",
+  "name": "RD5106A",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/RD5106A.kicad_sym",
+  "description": "Analog Delay Line 256 sample bucket brigade device, 512usec to more than 1second, input signal frequency range 0 to 170KHz, clock frequency range 500Hz to 1MHz",
+  "datasheet": "http://pdf.datasheetarchive.com/indexerfiles/Scans-091/DSAHI00048836.pdf",
+  "keywords": "EG&G RETICON BBD N-channel silicon-gate",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/RD5106A/",
+  "part_path": "parts/RD5106A",
+  "symbol_file": "parts/RD5106A/RD5106A.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:37:52.451Z"
+}

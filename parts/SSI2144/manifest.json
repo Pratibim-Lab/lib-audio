@@ -1,0 +1,17 @@
+{
+  "id": "Audio/SSI2144:SSI2144",
+  "name": "SSI2144",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/SSI2144.kicad_sym",
+  "description": "Four-pole VCF, SSOP-16",
+  "datasheet": "http://www.soundsemiconductor.com/downloads/ssi2144datasheet.pdf",
+  "keywords": "Sound Semiconductor VCF SSM2044",
+  "footprint": "Package_SO:SSOP-16_3.9x4.9mm_P0.635mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/SSI2144/",
+  "part_path": "parts/SSI2144",
+  "symbol_file": "parts/SSI2144/SSI2144.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:38:04.890Z"
+}

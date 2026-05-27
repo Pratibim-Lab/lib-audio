@@ -1,0 +1,17 @@
+{
+  "id": "Audio/ISD2560E:ISD2560E",
+  "name": "ISD2560E",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/ISD2560E.kicad_sym",
+  "description": "Single-Chip Voice Record/Playback Device 60-Second Duration, TSOP-I-28",
+  "datasheet": "https://datasheetspdf.com/pdf-file/700027/Winbond/ISD2560/1",
+  "keywords": "isd2560",
+  "footprint": "Package_SO:TSOP-I-28_11.8x8mm_P0.55mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/ISD2560E/",
+  "part_path": "parts/ISD2560E",
+  "symbol_file": "parts/ISD2560E/ISD2560E.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:37:12.419Z"
+}

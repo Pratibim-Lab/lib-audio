@@ -1,0 +1,17 @@
+{
+  "id": "Audio/ISD25120S:ISD25120S",
+  "name": "ISD25120S",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/ISD25120S.kicad_sym",
+  "description": "Single-Chip Voice Record/Playback Device 120-Second Duration, SOIC-28",
+  "datasheet": "https://datasheetspdf.com/pdf-file/700027/Winbond/ISD2560/1",
+  "keywords": "isd25120",
+  "footprint": "Package_SO:SOIC-28W_7.5x17.9mm_P1.27mm",
+  "extends": "ISD2560S",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/ISD25120S/",
+  "part_path": "parts/ISD25120S",
+  "symbol_file": "parts/ISD25120S/ISD25120S.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:37:11.425Z"
+}

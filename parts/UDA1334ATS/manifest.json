@@ -1,0 +1,17 @@
+{
+  "id": "Audio/UDA1334ATS:UDA1334ATS",
+  "name": "UDA1334ATS",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/UDA1334ATS.kicad_sym",
+  "description": "Low Power Audio DAC with PLL, SSOP-16",
+  "datasheet": "http://www.nxp.com/docs/en/data-sheet/UDA1334ATS.pdf",
+  "keywords": "audio dac 2ch 24bit 96kHz",
+  "footprint": "Package_SO:SSOP-16_4.4x5.2mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/UDA1334ATS/",
+  "part_path": "parts/UDA1334ATS",
+  "symbol_file": "parts/UDA1334ATS/UDA1334ATS.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:38:21.590Z"
+}

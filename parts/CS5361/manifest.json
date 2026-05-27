@@ -1,0 +1,17 @@
+{
+  "id": "Audio/CS5361:CS5361",
+  "name": "CS5361",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/CS5361.kicad_sym",
+  "description": "114 dB, 192 kHz, Multi-Bit Audio A/D Converter, SOIC-24/TSSOP-24",
+  "datasheet": "https://d3uzseaevmutz1.cloudfront.net/pubs/proDatasheet/CS5361_F2.pdf",
+  "keywords": "audio adc 2ch 24bit 192kHz",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/CS5361/",
+  "part_path": "parts/CS5361",
+  "symbol_file": "parts/CS5361/CS5361.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:36:59.979Z"
+}

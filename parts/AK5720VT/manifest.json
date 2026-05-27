@@ -1,0 +1,17 @@
+{
+  "id": "Audio/AK5720VT:AK5720VT",
+  "name": "AK5720VT",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/AK5720VT.kicad_sym",
+  "description": "Stereo, 96kHz, 24-Bit, Delta-Sigma ADC, TSSOP-16",
+  "datasheet": "https://www.akm.com/akm/en/file/datasheet/AK5720VT.pdf",
+  "keywords": "audio adc 2ch 24bit 96kHz I2S MSB TDM",
+  "footprint": "Package_SO:TSSOP-16_4.4x5mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/AK5720VT/",
+  "part_path": "parts/AK5720VT",
+  "symbol_file": "parts/AK5720VT/AK5720VT.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:36:36.759Z"
+}

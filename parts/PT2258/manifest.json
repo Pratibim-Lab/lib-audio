@@ -1,0 +1,17 @@
+{
+  "id": "Audio/PT2258:PT2258",
+  "name": "PT2258",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/PT2258.kicad_sym",
+  "description": "6-Channel Electronic Volume Controller, DIP-20",
+  "datasheet": "http://www.princeton.com.tw/Portals/0/Product/PT2258-s.pdf",
+  "keywords": "Volume",
+  "footprint": "Package_DIP:DIP-20_W7.62mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/PT2258/",
+  "part_path": "parts/PT2258",
+  "symbol_file": "parts/PT2258/PT2258.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:37:50.483Z"
+}

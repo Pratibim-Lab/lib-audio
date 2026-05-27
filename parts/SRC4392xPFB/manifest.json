@@ -1,0 +1,17 @@
+{
+  "id": "Audio/SRC4392xPFB:SRC4392xPFB",
+  "name": "SRC4392xPFB",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/SRC4392xPFB.kicad_sym",
+  "description": "Two-Channel, Asynchronous Sample Rate Converter with Integrated Digital Audio Interface Receiver and Transmitter, TQFP-48",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/src4392.pdf",
+  "keywords": "audio sample rate converter",
+  "footprint": "Package_QFP:TQFP-48_7x7mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/SRC4392xPFB/",
+  "part_path": "parts/SRC4392xPFB",
+  "symbol_file": "parts/SRC4392xPFB/SRC4392xPFB.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:38:03.887Z"
+}

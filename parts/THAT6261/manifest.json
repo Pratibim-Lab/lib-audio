@@ -1,0 +1,17 @@
+{
+  "id": "Audio/THAT6261:THAT6261",
+  "name": "THAT6261",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/THAT6261.kicad_sym",
+  "description": "2-Channel Low-Noise Programmable-Gain Preamplifier - ADC Driver IC, 1dB Step, QFN-48",
+  "datasheet": "http://www.thatcorp.com/datashts/THAT_626x_Datasheet.pdf",
+  "keywords": "dual mic preamp",
+  "footprint": "Package_DFN_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5.45x5.45mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/THAT6261/",
+  "part_path": "parts/THAT6261",
+  "symbol_file": "parts/THAT6261/THAT6261.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:38:13.212Z"
+}

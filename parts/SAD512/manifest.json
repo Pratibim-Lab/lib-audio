@@ -1,0 +1,17 @@
+{
+  "id": "Audio/SAD512:SAD512",
+  "name": "SAD512",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/SAD512.kicad_sym",
+  "description": "SAD-512 ANALOG DELAY LINE, bucket brigade device, 512 stages, signal frequency range 0 to 200KHz, clock frequency range 1.5KHz to 1.5MHz",
+  "datasheet": "http://thmq.mysteria.cz/em1022/SAD1024.pdf",
+  "keywords": "EG&G RETICON BBD N-channel silicon-gate",
+  "footprint": "",
+  "extends": "SAD1024",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/SAD512/",
+  "part_path": "parts/SAD512",
+  "symbol_file": "parts/SAD512/SAD512.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:37:57.659Z"
+}

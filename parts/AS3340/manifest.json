@@ -1,0 +1,17 @@
+{
+  "id": "Audio/AS3340:AS3340",
+  "name": "AS3340",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/AS3340.kicad_sym",
+  "description": "Voltage Controlled Oscillator (VCO), DIP-16/SOIC-16",
+  "datasheet": "http://www.alfarzpp.lv/eng/sc/AS3340.pdf",
+  "keywords": "VCO CEM340 ALFA",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/AS3340/",
+  "part_path": "parts/AS3340",
+  "symbol_file": "parts/AS3340/AS3340.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:36:43.834Z"
+}

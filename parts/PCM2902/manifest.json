@@ -1,0 +1,17 @@
+{
+  "id": "Audio/PCM2902:PCM2902",
+  "name": "PCM2902",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/PCM2902.kicad_sym",
+  "description": "Stereo Audio Codec with USB interface, Analog Input/Output, and S/PDIF, SSOP-28",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/pcm2902c.pdf",
+  "keywords": "pcm2902 usb audio",
+  "footprint": "Package_SO:SSOP-28_5.3x10.2mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/PCM2902/",
+  "part_path": "parts/PCM2902",
+  "symbol_file": "parts/PCM2902/PCM2902.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:37:34.567Z"
+}

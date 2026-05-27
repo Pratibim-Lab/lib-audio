@@ -1,0 +1,17 @@
+{
+  "id": "Audio/DSD1794A:DSD1794A",
+  "name": "DSD1794A",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/DSD1794A.kicad_sym",
+  "description": "24-Bit, 192-kHz Sampling, Advanced Segment, Audio Stereo Digital-to-Analog Converter, SW Control, SSOP-28",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/dsd1794a.pdf",
+  "keywords": "audio dac 2ch 24bit 192kHz",
+  "footprint": "Package_SO:SSOP-28_5.3x10.2mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/DSD1794A/",
+  "part_path": "parts/DSD1794A",
+  "symbol_file": "parts/DSD1794A/DSD1794A.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:37:07.119Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Audio/YM2149:YM2149",
+  "name": "YM2149",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/YM2149.kicad_sym",
+  "description": "Software-Controlled Sound Generator, DIP-40",
+  "datasheet": "http://www.ym2149.com/ym2149.pdf",
+  "keywords": "audio ssg 3ch",
+  "footprint": "Package_DIP:DIP-40_W15.24mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/YM2149/",
+  "part_path": "parts/YM2149",
+  "symbol_file": "parts/YM2149/YM2149.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:38:25.785Z"
+}

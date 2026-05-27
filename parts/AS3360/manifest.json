@@ -1,0 +1,17 @@
+{
+  "id": "Audio/AS3360:AS3360",
+  "name": "AS3360",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/AS3360.kicad_sym",
+  "description": "Dual Voltage Controlled Amplifier (VCA), DIP-14/SOIC-14",
+  "datasheet": "http://www.alfarzpp.lv/eng/sc/AS3360.pdf",
+  "keywords": "VCA CEM3360 ALFA",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/AS3360/",
+  "part_path": "parts/AS3360",
+  "symbol_file": "parts/AS3360/AS3360.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:36:46.849Z"
+}

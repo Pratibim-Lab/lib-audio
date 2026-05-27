@@ -1,0 +1,17 @@
+{
+  "id": "Audio/SGTL5000XNAA3:SGTL5000XNAA3",
+  "name": "SGTL5000XNAA3",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/SGTL5000XNAA3.kicad_sym",
+  "description": "Low Power Stereo Codec with Headphone Amp, QFN-32",
+  "datasheet": "https://www.nxp.com/docs/en/data-sheet/SGTL5000.pdf",
+  "keywords": "Codec",
+  "footprint": "Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.6x3.6mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/SGTL5000XNAA3/",
+  "part_path": "parts/SGTL5000XNAA3",
+  "symbol_file": "parts/SGTL5000XNAA3/SGTL5000XNAA3.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:37:58.679Z"
+}

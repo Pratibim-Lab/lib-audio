@@ -1,0 +1,17 @@
+{
+  "id": "Audio/PCM5100A:PCM5100A",
+  "name": "PCM5100A",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/PCM5100A.kicad_sym",
+  "description": "2.1 VRMS, 100dB Audio Stereo DAC with PLL and 32-bit, 384kHz PCM Interface, TSSOP-20",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/pcm5100a.pdf",
+  "keywords": "audio dac 2ch 32bit 384kHz",
+  "footprint": "Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm",
+  "extends": "PCM5100",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/PCM5100A/",
+  "part_path": "parts/PCM5100A",
+  "symbol_file": "parts/PCM5100A/PCM5100A.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:37:37.919Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Audio/CS8416-xZZ:CS8416-xZZ",
+  "name": "CS8416-xZZ",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/CS8416-xZZ.kicad_sym",
+  "description": "192 kHz Digital Audio Interface Receiver, TSSOP-28",
+  "datasheet": "https://d3uzseaevmutz1.cloudfront.net/pubs/proDatasheet/CS8416_F3.pdf",
+  "keywords": "audio digital interface receiver",
+  "footprint": "",
+  "extends": "CS8416-xSZ",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/CS8416-xZZ/",
+  "part_path": "parts/CS8416-xZZ",
+  "symbol_file": "parts/CS8416-xZZ/CS8416-xZZ.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:37:05.108Z"
+}

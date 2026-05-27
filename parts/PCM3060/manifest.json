@@ -1,0 +1,17 @@
+{
+  "id": "Audio/PCM3060:PCM3060",
+  "name": "PCM3060",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/PCM3060.kicad_sym",
+  "description": "24-bit Asynchronous Stereo Audio Codec with 96/192kHz sampling rate, TSSOP-28",
+  "datasheet": "https://www.ti.com/lit/gpn/pcm3060",
+  "keywords": "audio codec 2ch 24bit 192kHz",
+  "footprint": "Package_SO:TSSOP-28_4.4x9.7mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/PCM3060/",
+  "part_path": "parts/PCM3060",
+  "symbol_file": "parts/PCM3060/PCM3060.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:37:35.515Z"
+}

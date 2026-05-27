@@ -1,0 +1,17 @@
+{
+  "id": "Audio/MAX98357B:MAX98357B",
+  "name": "MAX98357B",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/MAX98357B.kicad_sym",
+  "description": "Mono DAC with amplifier, I2S, left-justified, TDM, 32-bit, 96khz, 3.2W, TQFP-16",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/MAX98357A-MAX98357B.pdf",
+  "keywords": "tdm i2s left-justified amplifier audio dac",
+  "footprint": "Package_DFN_QFN:TQFN-16-1EP_3x3mm_P0.5mm_EP1.23x1.23mm",
+  "extends": "MAX98357A",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/MAX98357B/",
+  "part_path": "parts/MAX98357B",
+  "symbol_file": "parts/MAX98357B/MAX98357B.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:37:22.206Z"
+}

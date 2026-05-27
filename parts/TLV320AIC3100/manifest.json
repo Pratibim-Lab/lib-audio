@@ -1,0 +1,17 @@
+{
+  "id": "Audio/TLV320AIC3100:TLV320AIC3100",
+  "name": "TLV320AIC3100",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/TLV320AIC3100.kicad_sym",
+  "description": "Low Power Audio Codec with Audio Processing and Mono Class‑D Amplifier, VQFN-32",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tlv320aic3100.pdf",
+  "keywords": "audio codec 2ch 192kHz class-d amplifier",
+  "footprint": "Package_DFN_QFN:VQFN-32-1EP_5x5mm_P0.5mm_EP3.5x3.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/TLV320AIC3100/",
+  "part_path": "parts/TLV320AIC3100",
+  "symbol_file": "parts/TLV320AIC3100/TLV320AIC3100.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:38:19.518Z"
+}

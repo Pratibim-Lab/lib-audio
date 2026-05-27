@@ -1,0 +1,17 @@
+{
+  "id": "Audio/WM8731SEDS:WM8731SEDS",
+  "name": "WM8731SEDS",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/WM8731SEDS.kicad_sym",
+  "description": "Portable Internet Audio CODEC with Headphone Driver and Programmable Sample Rates, SSOP-28",
+  "datasheet": "https://statics.cirrus.com/pubs/proDatasheet/WM8731_v4.9.pdf",
+  "keywords": "wolfson stereo audio codec adc dac headphone",
+  "footprint": "Package_SO:SSOP-28_5.3x10.2mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/WM8731SEDS/",
+  "part_path": "parts/WM8731SEDS",
+  "symbol_file": "parts/WM8731SEDS/WM8731SEDS.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:38:24.643Z"
+}

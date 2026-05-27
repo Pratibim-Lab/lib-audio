@@ -1,0 +1,17 @@
+{
+  "id": "Audio/CS5344:CS5344",
+  "name": "CS5344",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/CS5344.kicad_sym",
+  "description": "98 dB, 96 kHz, 24bit Stereo Audio A/D Converter, Left-Justified Audio Format, TSSOP-10",
+  "datasheet": "https://statics.cirrus.com/pubs/proDatasheet/CS5343-44_F5.pdf",
+  "keywords": "stereo 2ch audio codec",
+  "footprint": "Package_SO:TSSOP-10_3x3mm_P0.5mm",
+  "extends": "CS5343",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/CS5344/",
+  "part_path": "parts/CS5344",
+  "symbol_file": "parts/CS5344/CS5344.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:36:58.980Z"
+}

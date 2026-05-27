@@ -1,0 +1,17 @@
+{
+  "id": "Audio/SSI2164:SSI2164",
+  "name": "SSI2164",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/SSI2164.kicad_sym",
+  "description": "Quad VCA, SOIC-16",
+  "datasheet": "http://www.soundsemiconductor.com/downloads/ssi2164datasheet.pdf",
+  "keywords": "Sound Semiconductor VCA SSM2164",
+  "footprint": "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/SSI2164/",
+  "part_path": "parts/SSI2164",
+  "symbol_file": "parts/SSI2164/SSI2164.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:38:05.905Z"
+}

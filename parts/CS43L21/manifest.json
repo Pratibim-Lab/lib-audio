@@ -1,0 +1,17 @@
+{
+  "id": "Audio/CS43L21:CS43L21",
+  "name": "CS43L21",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/CS43L21.kicad_sym",
+  "description": "Low-Power, Stereo Digital-to-Analog Converter, QFN-32",
+  "datasheet": "https://d3uzseaevmutz1.cloudfront.net/pubs/proDatasheet/CS43L21_F1.pdf",
+  "keywords": "audio dac 2ch 24bit 96kHz",
+  "footprint": "Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/CS43L21/",
+  "part_path": "parts/CS43L21",
+  "symbol_file": "parts/CS43L21/CS43L21.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:36:56.537Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Audio/THAT5171:THAT5171",
+  "name": "THAT5171",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/THAT5171.kicad_sym",
+  "description": "High-Performance Digital Preamplifier Controller IC, QFN-32",
+  "datasheet": "http://www.thatcorp.com/datashts/THAT_5171_Datasheet.pdf",
+  "keywords": "mic preamp gain controller",
+  "footprint": "Package_DFN_QFN:QFN-32-1EP_7x7mm_P0.65mm_EP5.4x5.4mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/THAT5171/",
+  "part_path": "parts/THAT5171",
+  "symbol_file": "parts/THAT5171/THAT5171.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:38:09.971Z"
+}

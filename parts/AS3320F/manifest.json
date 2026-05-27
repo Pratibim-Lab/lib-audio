@@ -1,0 +1,17 @@
+{
+  "id": "Audio/AS3320F:AS3320F",
+  "name": "AS3320F",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/AS3320F.kicad_sym",
+  "description": "Voltage Controlled Filter (VCF), QFN-24",
+  "datasheet": "http://www.alfarzpp.lv/eng/sc/AS3320.pdf",
+  "keywords": "VCF CEM3320 ALFA",
+  "footprint": "Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/AS3320F/",
+  "part_path": "parts/AS3320F",
+  "symbol_file": "parts/AS3320F/AS3320F.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:36:40.802Z"
+}

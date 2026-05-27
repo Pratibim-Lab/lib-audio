@@ -1,0 +1,17 @@
+{
+  "id": "Audio/CS4265:CS4265",
+  "name": "CS4265",
+  "library": "Audio",
+  "file": "Audio.kicad_symdir/CS4265.kicad_sym",
+  "description": "104 dB, 24-Bit, 192 kHz Stereo Audio CODEC, QFN-32",
+  "datasheet": "https://statics.cirrus.com/pubs/proDatasheet/CS4265_F5.pdf",
+  "keywords": "Audio codec 24bit 192khz stereo",
+  "footprint": "Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.6x3.6mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-audio@master/parts/CS4265/",
+  "part_path": "parts/CS4265",
+  "symbol_file": "parts/CS4265/CS4265.kicad_sym",
+  "source_library": "Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:36:49.363Z"
+}
